@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Наталья Волчатова](https://up.htmlacademy.ru/ecmascript/8/user/415439).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
